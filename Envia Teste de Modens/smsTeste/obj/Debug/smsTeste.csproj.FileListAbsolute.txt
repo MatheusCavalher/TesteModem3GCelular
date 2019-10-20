@@ -1,0 +1,32 @@
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\bin\Debug\smsTeste.exe
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\bin\Debug\smsTeste.pdb
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\obj\Debug\smsTeste.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\obj\Debug\smsTeste.Form1.resources
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\obj\Debug\smsTeste.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\obj\Debug\smsTeste.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\obj\Debug\smsTeste.exe
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\smsTeste\smsTeste\obj\Debug\smsTeste.pdb
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.exe
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.pdb
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\bin\Debug\smsTeste.exe
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\bin\Debug\smsTeste.pdb
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.Form1.resources
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.exe
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.pdb
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\bin\Debug\smsTeste.exe
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\bin\Debug\smsTeste.pdb
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.Form1.resources
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2012\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.csproj.GenerateResource.Cache
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\bin\Debug\smsTeste.exe
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\bin\Debug\smsTeste.pdb
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.csprojAssemblyReference.cache
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.Form1.resources
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.Properties.Resources.resources
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.csproj.GenerateResource.cache
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.exe
+D:\Projetos\Projects\Envia Teste de Modens\smsTeste\obj\Debug\smsTeste.pdb
